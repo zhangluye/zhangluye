@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zhangluye/zhangluye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.⚡
 - 🌱 Currently studying in HaiNan, China.📊
 - 💬 Better not come and ask me Java, JavaScript(I am studying it),SpringBoot,MySQL
+
 - ⭐ You may like answer my questions
 
 
