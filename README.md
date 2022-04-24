@@ -12,14 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-![](http://antzuhl.cn:4000/get/@zhangluye.readme)
-![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=radical)
--->
+
 
 ## Hello everybody,Welcome to my GitHub  👋
 ![](http://antzuhl.cn:4000/get/@zhangluye.readme)
-![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=radical)
+![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
