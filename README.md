@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 ![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=radical)
 -->
 
-## Hello GitHub  👋
-
+## Hello everybody,Welcome to my GitHub  👋
+![](http://antzuhl.cn:4000/get/@zhangluye.readme)
+![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=radical)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 想划水 想划水 想划水
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.⚡
+- A Computer Engineering Undergraduate Student.
 - 🌱 Currently studying in HaiNan, China.📊
-- 💬 Better not come and ask me Java, JavaScript(I am studying it),SpringBoot,MySQL
-
+- 💬 Better not come and ask me Java,SpringBoot,MySQL
 - ⭐ You may like answer my questions
 
 
