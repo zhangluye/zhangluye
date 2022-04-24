@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 想划水 想划水 想划水
 
-- A Computer Engineering Undergraduate Student.
+- 😄 A Computer Engineering Undergraduate Student.
 - 🌱 Currently studying in HaiNan, China.📊
 - 💬 Better not come and ask me Java,SpringBoot,MySQL
 - ⭐ You may like answer my questions
