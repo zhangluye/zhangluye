@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 
 ### I'm Siwei Zhou
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently studying in HaiNan, China.
-- 💬 Ask me about Java, TypeScript(I am studying it)
-- ⭐ You may like (未定待续)
-- ⚡ Fun fact: Data Analysis📊
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.⚡
+- 🌱 Currently studying in HaiNan, China.📊
+- 💬 Better not come and ask me Java, JavaScript(I am studying it),SpringBoot,MySQL
+- ⭐ You may like answer my questions
+
 
 ### 🛠 技术栈 | Tech Stack
 
