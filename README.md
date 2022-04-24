@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=zhangluye)](https://github.com/zhangluye/github-readme-stats)
 ![](http://antzuhl.cn:4000/get/@zhangluye.readme)
-![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=dark)
+![info](https://github-readme-stats.vercel.app/api?username=zhangluye&show_icons=true&count_private=true&hide=prs&theme=radical)
 
